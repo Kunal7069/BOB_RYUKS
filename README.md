@@ -32,11 +32,5 @@ This project aims to automate various banking processes, reducing the time and e
 - **Customer Satisfaction**: Enhanced customer service with AI-driven chatbots.
 - **Informed Decisions**: Data-driven insights for better decision-making in loan approvals and customer management.
 
-## Getting Started
 
-### Prerequisites
-- Python 3.x
-- Necessary AI and ML libraries (TensorFlow, PyTorch, etc.)
-- OCR library (e.g., Tesseract)
-- NLP library (e.g., SpaCy, NLTK)
 
